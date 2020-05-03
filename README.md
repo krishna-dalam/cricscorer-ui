@@ -22,10 +22,6 @@ $ npm install
 $ npm start
 ```
 
-#### 4. Open the Expo app on mobile and check the application. If you are unaware of how Expo works check this article
-
-- [Expo starter](https://expo.io/learn)
-
 ## Congradulations! You have your application up and running
 
 #
